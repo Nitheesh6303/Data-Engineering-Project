@@ -1,0 +1,3 @@
+﻿CREATE DATABASE retail_dw;
+ALTER DATABASE retail_dw OWNER TO airflow;
+GRANT ALL PRIVILEGES ON DATABASE retail_dw TO airflow;
