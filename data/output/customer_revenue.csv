@@ -1,0 +1,13 @@
+customer_id,customer_name,country,total_orders,total_revenue
+C001,Ali Khan,Pakistan,3,195.00
+C010,Omar Farooq,Saudi Arabia,2,165.00
+C004,Li Wei,China,2,145.00
+C003,John Smith,Usa,2,140.00
+C005,Ayesha Malik,Pakistan,3,125.00
+C002,Sara Ahmed,Pakistan,2,110.00
+C011,Fatima Raza,Pakistan,1,110.00
+C009,Emily Brown,Uk,2,110.00
+C007,Chen Yu,China,2,85.00
+C006,Maria Garcia,Spain,1,75.00
+C008,Ahmed Noor,Uae,1,45.00
+C012,David Miller,Germany,1,40.00
